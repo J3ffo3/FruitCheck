@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\jeffd\Pictures\UPC\CICLO 6\Inteligencia Artificial\TF\FruitChecker\openCv\.cxx\Debug\1y325k2t\arm64-v8a'
+ninja: no work to do.

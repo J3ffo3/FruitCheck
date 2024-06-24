@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FruitChecker</string>
+
+    <string name="take_photo">Tomar foto</string>
+
+    <string name="load_photo">Subir foto</string>
+
+    <string name="live_video">Live</string>
+
+    <string name="history">Historial</string>
+
+    <string name="go_back">Volver</string>
+
+    <string name="refresh">Retomar Foto</string>
+
+</resources>
